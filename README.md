@@ -46,7 +46,10 @@
 <a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" /></a>  
 <a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="50" /></a>  
 <a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>  
-<a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" /></a>  
+<a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" /></a>
+<a href="https://godotengine.org" target="_blank"><img style="margin: 10px" src="https://godotengine.org/assets/logo_dark.svg" alt="Godot Engine" height="50" /></a>
+<a href="https://create.roblox.com/landing" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/5/58/Roblox_Studio_logo_2021_present.svg" alt="Roblox Engine" height="50" /></a>
+<a href="https://www.lua.org" target="_blank"><img style="margin: 10px" src="https://www.lua.org/images/logo.gif" alt="Lua" height="50" /></a>
 </div>
 
 </td></tr></table>  
