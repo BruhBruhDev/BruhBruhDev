@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I go by the nick BruhBruhDev, I am a hobby developer and hobby mathematician</div>  
+### <div align="center">I go by the nick BruhBruh, I am a hobby developer and hobby mathematician</div>  
   
 
 - 🔭 I’m currently working on some private projects. Admittedly I promised occasionally updating [FTreeViewer](https://github.com/BruhBruhDev/FTreeViewer) and [TMP](https://github.com/BruhBrubDev/TMP). If I have an idea for a feature I will update them. Or if someone shows interest I will be glad to implement!  
