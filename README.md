@@ -3,17 +3,10 @@
 </div>  
   
 
-### <div align="center">I go by the nick BruhBruh, I am a hobby developer and hobby mathematician</div>  
+### <div align="center">I go by the nick BruhBruh, I am a hobby developer and I like math</div>  
   
 
-- 🔭 I’m currently working on some private projects. Admittedly I promised occasionally updating [FTreeViewer](https://github.com/BruhBruhDev/FTreeViewer) and [TMP](https://github.com/BruhBrubDev/TMP). If I have an idea for a feature I will update them. Or if someone shows interest I will be glad to implement!  
-  
-
-- ❓ Ask me about anything related to Math, Philosophy, Graphics, Pathfinding, I am happy to discuss  
-  
-
-- ⚡ Tabs. Tabs the only rational choice!  
-  
+- 🔭 I’m occasionally continueing to working on some private projects. Admittedly I promised updating [FTreeViewer](https://github.com/BruhBruhDev/FTreeViewer) and [TMP](https://github.com/BruhBrubDev/TMP). If someone shows interest in them I will be glad to implement more features and continue developing!
 
 <br/>  
 
@@ -28,7 +21,6 @@
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
 <a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
-<a href="https://create.roblox.com/landing" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/5/58/Roblox_Studio_logo_2021_present.svg" alt="Roblox Engine" height="50" /></a>
 </div>
 
 </td><td valign="top" width="50%">
@@ -49,6 +41,7 @@
 <a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" /></a>
 <a href="https://godotengine.org" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" alt="Godot Engine" height="50" /></a>
 <a href="https://www.lua.org" target="_blank"><img style="margin: 10px" src="https://www.lua.org/images/logo.gif" alt="Lua" height="50" /></a>
+<a href="https://create.roblox.com/landing" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/5/58/Roblox_Studio_logo_2021_present.svg" alt="Roblox Engine" height="50" /></a>
 </div>
 
 </td></tr></table>  
