@@ -6,7 +6,7 @@
 ### <div align="center">I go by the nick BruhBruh, I am a hobby developer and I like math</div>  
   
 
-- 🔭 I’m occasionally continueing to working on some private projects. Admittedly I promised updating [FTreeViewer](https://github.com/BruhBruhDev/FTreeViewer) and [TMP](https://github.com/BruhBrubDev/TMP). If someone shows interest in them I will be glad to implement more features and continue developing!
+- 🔭 I’m occasionally continuing to work on some private projects. Admittedly I promised updating [FTreeViewer](https://github.com/BruhBruhDev/FTreeViewer) and [TMP](https://github.com/BruhBrubDev/TMP). If people show interest in them, I will be glad to implement more features and continue developing!
 
 <br/>  
 
