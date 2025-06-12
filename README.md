@@ -6,7 +6,7 @@
 ### <div align="center">I am a hobby developer and I like math</div>  
   
 
-- 🔭 Cool (small) side projects: [FTreeViewer](https://github.com/BruhBruhDev/FTreeViewer) , [TMP](https://github.com/BruhBrubDev/TMP).
+- 🔭 Cool (small) side projects: [FTreeViewer](https://github.com/BruhBruhDev/FTreeViewer) , [TMP](https://github.com/BruhBruhDev/TMP).
 - While I will at some point port FTreeViewer to a more Linux friendly language to continue development (its in C#), I won't in case of TMP as its windows specific.
 
 <br/>  
